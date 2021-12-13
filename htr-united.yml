@@ -5,7 +5,7 @@ description: >
     The FoNDUE MSS 18 repository was created in order to make available transcription
     corpora for training HTR and segmentation models for 18th c. manuscripts.
 language:
-    - 'fr'
+    - 'fra'
 script:
     - 'Latn'
 script-type: "only-manuscript"
