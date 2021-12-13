@@ -1,0 +1,24 @@
+schema: https://htr-united.github.io/schema/2021-10-15/schema.json
+title : 'FoNDUE MSS 18'
+url: 'https://github.com/FoNDUE-HTR/FONDUE-MSS-18'
+description: >
+    The FoNDUE MSS 18 repository was created in order to make available transcription
+    corpora for training HTR and segmentation models for 18th c. manuscripts.
+language:
+    - 'fr'
+script:
+    - 'Latn'
+script-type: "only-manuscript"
+time:
+    notBefore: "1700"
+    notAfter: "1799"
+hands:
+    count: "1-per-folder"
+    precision: "estimated"
+license:
+    - {name: 'CC-BY 4.0', url: 'https://creativecommons.org/licenses/by/4.0/'}
+format: 'Alto-XML'
+volume:
+    - {count: 0, metric: "lines"}
+    - {count: 0, metric: "regions"}
+    - {count: 0, metric: "characters"}

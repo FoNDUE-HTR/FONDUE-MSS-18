@@ -1,0 +1,11 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Gabay
+    given-names: Simon
+    orcid: https://orcid.org/0000-0001-9094-4475
+  - family-names: Nahon
+    given-names: Peter
+title: "FoNDUE MSS 18, an 18th c. French dataset for HTR and segmentation"
+version: 0.9
+date-released: 2021-12-13
